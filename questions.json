@@ -1,0 +1,33 @@
+[
+    {
+      "question": "Tumhe kis type ka kaam pasand hai?",
+      "options": [
+        "Logon se baat karna ya samasya suljhane mein madad karna",
+        "Naye cheezein banana ya likhna ya design karna",
+        "Data analyse karna ya technical systems samajhna",
+        "Field work ya adventurous kaam",
+        "Apna kaam khud plan karna ya business karna"
+      ]
+    },
+    {
+      "question": "Tumhare interest kisme jyada hai?",
+      "options": [
+        "Government services (UPSC, State PSC)",
+        "MNCs ya corporate jobs",
+        "Art, music, dance, acting ya creative field",
+        "Sports, fitness, outdoor activities",
+        "Apna business ya startup"
+      ]
+    },
+    {
+      "question": "Tumhe kis environment me kaam karna accha lagta hai?",
+      "options": [
+        "Formal office jahan fixed schedule ho",
+        "Flexible timing aur creative freedom ho",
+        "Public dealing aur logon ke saath kaam",
+        "Independent aur outdoor work",
+        "Apna boss khud banna"
+      ]
+    }
+  ]
+  
